@@ -20,7 +20,7 @@ diem-metrics = { path = "../../crates/diem-metrics" }
 diem-workspace-hack = { version = "0.1", path = "../../crates/diem-workspace-hack" }
 
 [dependencies.rocksdb]
-version = "0.17.0"
+version = "0.20.1"
 default-features = false
 features = ["lz4"]
 

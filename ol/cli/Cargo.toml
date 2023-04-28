@@ -70,7 +70,7 @@ move-resource-viewer = { git = "https://github.com/0LNetworkCommunity/move-0L", 
 
 # Parity with Storage create
 [dependencies.rocksdb]
-version = "0.15.0"
+version = "0.20.1"
 default-features = false
 features = ["lz4"]
 
